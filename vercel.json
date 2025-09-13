@@ -6,11 +6,6 @@
       "use": "@vercel/static"
     }
   ],
-  "ignore": [
-    "README.md",
-    "EMAIL_SETUP.md",
-    "*.md"
-  ],
   "headers": [
     {
       "source": "/(.*)",
