@@ -1,0 +1,23 @@
+{
+  "name": "compound-waitlist",
+  "version": "1.0.0",
+  "description": "Landing page for Compound - AI-powered habit building platform",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "habit-building",
+    "productivity",
+    "goal-setting",
+    "waitlist",
+    "landing-page"
+  ],
+  "author": "Compound Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
